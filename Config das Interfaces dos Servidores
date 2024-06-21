@@ -1,4 +1,4 @@
-enable 
+-enable 
     show ip interface brief 
     ping 192.168.10.252
     ping 192.168.10.251(erro)
